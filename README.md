@@ -20,7 +20,7 @@ I’m a **Software Developer** with a passion for **Full Stack** development. I�
 - 😄 **Pronouns**: She/Her  
 - ⚡ **Fun fact**: I’m a national-level roller skater!
 - 📫 **How to reach me**: 
-  - [LinkedIn](https://www.linkedin.com/in/yashasvimatta/)  
+  - [LinkedIn](https://www.linkedin.com/in/yashasvi-matta/)  
   - [Email](mailto:yashasvimatta@gmail.com) 
 
 ---
