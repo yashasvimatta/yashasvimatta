@@ -4,7 +4,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&center=true&vCenter=true&width=600&lines=Software+Developer+%7C+ML+Enthusiast+%7C+Full+Stack+Engineer;Building+High-Performance+Apps;Optimizing+APIs+%7C+Leaning+into+Cloud+and+DevOps;Always+Learning+and+Exploring+New+Tech!">
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&center=true&vCenter=true&width=800&lines=Optimizing+APIs;Leaning+into+Cloud+and+DevOps;Building+High-Performance+Systems;Always+Learning+New+Technologies!" />
 </p>
 
 ---
@@ -12,7 +12,7 @@
 ## About Me  
 I’m a **Software Developer** with a passion for **Full Stack** development, **Machine Learning**, and **DevOps**. I’m focused on building scalable systems, integrating cutting-edge machine learning pipelines, and optimizing performance across the stack.
 
-- 🔭 **I'm currently working on** a high-throughput data service using **Flask**, **Django**, **Docker**, and **Kubernetes**, capable of handling 50+ requests per second.  
+- 🔭 **I'm currently working on** [a high-throughput data service](https://github.com/yashasvimatta/your-repo) using **Flask**, **Django**, **Docker**, and **Kubernetes**, capable of handling 50+ requests per second.
 - 🌱 **I'm currently learning** more about advanced Generative AI, LLMs and Langchain.  
 - 👯 **I'm looking to collaborate on** open-source projects related to full-stack development,Gen AI, or machine learning.  
 - 💬 **Ask me about** building REST APIs, React SPAs, container orchestration, and ML model optimization.  
@@ -39,12 +39,6 @@ I’m a **Software Developer** with a passion for **Full Stack** development, **
   <img src="https://img.shields.io/badge/Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" alt="Spark"/>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="TensorFlow"/>
 </p>
-
----
-
-## Education
-**University of Texas at Arlington** | Aug 2022 – May 2024  
-*Master of Science in Computer Science *
 
 ---
 
